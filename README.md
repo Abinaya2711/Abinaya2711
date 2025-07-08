@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
 **Duration:** February 15, 2024 – March 15, 2024  
 **Highlights:**  
 ✅ Completed a **4-week web development internship** focused on building real-world applications.  
-✅ Designed and implemented three interactive websites using **HTML, CSS, and JavaScript**. 
+✅  Designed and implemented three interactive websites using **HTML, CSS, and JavaScript**. 
 ✅ Gained practical experience in **creating responsive layouts** and enhancing user interface design.
 
 ### 💻 Full Stack & Cloud Hosting Intern
