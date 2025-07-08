@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abinaya S!
 
-Welcome to my GitHub profile! I’m currently in my third year of B.Tech Information Technology at PSNA College of Engineering and Technology,and I am deeply passionate about coding, designing, and leveraging technology to craft creative solutions for real-world challenges.
+Welcome to my GitHub profile! I’m currently in my third year of B.Tech Information Technology at PSNA College of Engineering and Technology, with a CGPA of 8.91. I am deeply passionate about coding, designing, and leveraging technology to craft creative solutions for real-world challenges
 
 ## 👩‍💻 About Me
 
@@ -16,6 +16,25 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
   - Participant in the iTech Hackfest 2024 (National level Hackathon)
   - Certified in SQL Basics (Skill Rack)
   - Completed 12 self-learning courses on MongoDB (ICT Academy)
+
+## 🚀 Internship Experience
+
+### 💻 Web Development Intern
+**Company:** CodSoft  
+**Duration:** February 15, 2024 – March 15, 2024  
+**Highlights:**  
+✅ Completed a **4-week web development internship** focused on building real-world applications.  
+✅ Designed and implemented three interactive websites using **HTML, CSS, and JavaScript**. 
+✅ Gained practical experience in **creating responsive layouts** and enhancing user interface design.
+
+### 💻 Full Stack & Cloud Hosting Intern
+**Company:** Futurik Technologies  
+**Duration:** January 02, 2025 – February 02, 2025  
+**Highlights:**                 
+✅ Completed a **4-week web development internship** focused on building real-world applications.    
+✅ Worked on an Ecommerce website project named **"TechCloset"**, hosted on the company's cloud domain.  
+✅  Enhanced proficiency in **end-to-end web development, cloud-based deployment** and **mobile-responsive design**.
+
 
 ## 🚀 My Current Initiatives
 
