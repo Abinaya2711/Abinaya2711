@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
 **Highlights:**                 
 ✅ Completed a **4-week web development internship** focused on building real-world applications.    
 ✅ Worked on an Ecommerce website project named **"TechCloset"**, hosted on the company's cloud domain.  
-✅  Enhanced proficiency in **end-to-end web development, cloud-based deployment** and **mobile-responsive design**.
+✅ Enhanced proficiency in **end-to-end web development, cloud-based deployment** and **mobile-responsive design**.
 
 
 ## 🚀 My Current Initiatives
