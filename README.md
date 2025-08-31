@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abinaya S!
 
-Welcome to my GitHub profile! I’m currently in my third year of B.Tech Information Technology at PSNA College of Engineering and Technology, with a CGPA of 8.91. I am deeply passionate about coding, designing, and leveraging technology to craft creative solutions for real-world challenges
+Welcome to my GitHub profile! I’m currently in my third year of B.Tech Information Technology at PSNA College of Engineering and Technology, with a CGPA of 8.92. I am deeply passionate about coding, designing, and leveraging technology to craft creative solutions for real-world challenges
 
 ## 👩‍💻 About Me
 
@@ -35,6 +35,13 @@ Welcome to my GitHub profile! I’m currently in my third year of B.Tech Informa
 ✅ Enhanced proficiency in **end-to-end web development, cloud-based deployment** and **mobile-responsive design**.
 
 
+### 💻 React.js & MongoDB Intern
+**Company:** Gateway Software Solutions 
+**Duration:** June 16, 2025 – July 16, 2025
+**Highlights:**                 
+✅ Completed a **1-month internship** focused on React.js and MongoDB-based web application development.    
+✅ Developed a dynamic application with improved **UI responsiveness** and **optimized backend workflows**.  
+✅ Enhanced **front-end interactivity** and **streamlined data handling** to deliver a smoother user experience.
 ## 🚀 My Current Initiatives
 
 - Enhancing my proficiency in **full-stack development** with technologies like Node.js and JavaScript
